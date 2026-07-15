@@ -6,12 +6,12 @@ const projects = [
     title: 'Nova Clothing',
     description: 'A full e-commerce clothing website with product listings, cart, and checkout flow.',
     tags: ['React'],
-    link: 'https://nova-clothing-g00p0eblz-farhans-projects-5a73a0c6.vercel.app/',
+    link: 'https://nova-clothing.vercel.app/',
   },
   {title: 'Dice-Game',
     description: 'A simple dice rolling game built with React.',
     tags: ['React'],
-    link: 'https://dice-game-lvfzvuecz-farhans-projects-5a73a0c6.vercel.app/',
+    link: 'https://dice-game-chi-eight.vercel.app',
   },
   
 ]
